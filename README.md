@@ -2,6 +2,13 @@
 
 This sample demonstrates a tiny Hello World .NET Core app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web). This sample can be used in a .NET Azure App Service app as well as in a Custom Container Azure App Service app.
 
+## Deployment Status
+
+https://github.com/tiagocostapt/dotnetcore-docs-hello-world/workflows/azure-webapps-dotnet-core/badge.svg
+
+![image](https://github.com/tiagocostapt/dotnetcore-docs-hello-world/assets/11490197/f09561c5-1944-43e2-81a7-6c3d40bee33b)
+
+
 ## Log in to Azure Container Registry
 
 Using the Azure CLI, log in to the Azure Container Registry (ACR):
