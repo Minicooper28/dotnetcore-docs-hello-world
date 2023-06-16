@@ -4,7 +4,7 @@ This sample demonstrates a tiny Hello World .NET Core app for [App Service Web A
 
 ## Deployment Status
 
-![Status Badge](https://github.com/tiagocostapt/dotnetcore-docs-hello-world/workflows/azure-webapps-dotnet-core.yml/badge.svg)
+![Status Badge](https://github.com/tiagocostapt/dotnetcore-docs-hello-world/actions/workflows/azure-webapps-dotnet-core.yml/badge.svg)
 
 ## Log in to Azure Container Registry
 
